@@ -1,1 +1,0 @@
-tsudo sleep 10 && reboot -p
